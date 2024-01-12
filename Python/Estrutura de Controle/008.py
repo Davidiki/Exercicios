@@ -1,0 +1,1 @@
+'''Sejam três números inteiros diferentes digitados pelo usuário, faça um programa em Python que os coloque em ordem crescente.'''

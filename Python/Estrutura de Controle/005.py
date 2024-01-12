@@ -1,0 +1,1 @@
+'''Elabore um programa em Python que leia um número (de 3 algarismos, faça a validação para aceitar apenas números menores que 1000) e imprima se ele é ascendente. Um número é ascendente se seus algarismos estão em ordem crescente. Por exemplo, o número 258 é ascendente, pois, 2 < 5 e 5 < 8.'''
